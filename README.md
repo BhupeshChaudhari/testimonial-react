@@ -1,6 +1,6 @@
-# React + Vite
+# Testimonials Carousel with React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a testimonials carousel built using React and Vite. It showcases user testimonials in a card format, with functionality to navigate through testimonials and a "Surprise Me" button to display a random testimonial.
 
 Currently, two official plugins are available:
 

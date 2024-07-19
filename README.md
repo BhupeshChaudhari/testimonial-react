@@ -10,7 +10,7 @@ This project is a testimonials carousel built using React and Vite. It showcases
 ### To run this project locally, follow these steps : 
 1. Clone the repository:
   ```
-  git clone https://github.com/your-username/testimonials-carousel.git
+  git clone https://github.com/BhupeshChaudhari/testimonial-reactt.git
   cd testimonials-carousel
   ```
 2. Install dependencies:
